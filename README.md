@@ -24,9 +24,9 @@ Sprawdźmy co się dzieje z listami. Jedź z koksem:
 No i sprawdzamy jak wygląda pisanie kodu:
 > Pierwsza linijka kodu
 > Druga linijka. Pewnie też ważna.
-> a czy jak dorzucę 3, to będzie lepiej, czy gorzej?
+> Aa czy jak dorzucę 3, to będzie lepiej, czy gorzej? Ogólnie bez zmian. Niestety.
 
-Jako user, wprowadź: '<vim ~/kupa/config>'
+Jako user, wprowadź: `<vim ~/kupa/config>`
 
 ```javascript
 function fancyAlert(arg) {
