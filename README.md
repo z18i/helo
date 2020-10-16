@@ -44,3 +44,5 @@ function fancyAlert(arg) {
 
 
 I stestujemy jeszcze ~~jedno~~.
+
+Dodajemy coś specjalnie z dedykacją dla szurów.
